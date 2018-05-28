@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <title>TypeScript Todo App</title>
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+
+    <script src="node_modules/systemjs/dist/system.js"></script>
+
+    <script>
+        SystemJS.config({
+            baseURL:"/", //Can write the path like /script and the browser will look inside the script folder
+            packages:{
+                ".":{
+                    defaultExtension:'js'
+                }
+            }
+        })
+        SystemJS.import("./app/app.js")
+    </script>
+</head>
+
+<body>
+<div id="container" class="container">
+</div>
+
+</body>
+
+</html>

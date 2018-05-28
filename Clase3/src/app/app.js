@@ -1,0 +1,13 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const MuscleCar_1 = require("./Car/SportsCar/MuscleCar/MuscleCar");
+const Convertible_1 = require("./Car/SportsCar/Convertible/Convertible");
+const RaceCar_1 = require("./Car/SportsCar/RaceCar/RaceCar");
+let myMuscleCar = new MuscleCar_1.MuscleCar(2015, "toyot", 300, 500, "red");
+let myRaceCar = new RaceCar_1.RaceCar(2016, "chevrolet", 350, 400, 9000);
+let myConvetivleCar = new Convertible_1.Convertible(2017, "BMW", 250, 400, "coffe");
+console.log(myMuscleCar.constructor.name);
+myMuscleCar.StartEngine();
+myMuscleCar.BeingAwesome();
+myMuscleCar.StopBeingAwesome();
+myMuscleCar.ShowMaxSpeed();
