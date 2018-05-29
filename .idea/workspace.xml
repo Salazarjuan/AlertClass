@@ -2,44 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7585cdb4-f882-4a28-9fdb-366cd1de5677" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/AlertClass.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Clase3/dist/Car/Car.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Clase3/dist/Car/EconomyCar/EconomyCar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Clase3/dist/Car/EconomyCar/Hatchback/Hatchback.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Clase3/dist/Car/EconomyCar/MicroCar/MicroCar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Clase3/dist/Car/FamilyCar/FamilyCar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Clase3/dist/Car/SportsCar/Convertible/Convertible.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Clase3/dist/Car/SportsCar/MuscleCar/MuscleCar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Clase3/dist/Car/SportsCar/RaceCar/RaceCar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Clase3/dist/Car/SportsCar/SportsCar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Clase3/dist/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Clase3/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Clase3/src/app/Car/Car.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Clase3/src/app/Car/Car.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Clase3/src/app/Car/EconomyCar/EconomyCar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Clase3/src/app/Car/EconomyCar/EconomyCar.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Clase3/src/app/Car/EconomyCar/Hatchback/Hatchback.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Clase3/src/app/Car/EconomyCar/Hatchback/Hatchback.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Clase3/src/app/Car/EconomyCar/MicroCar/MicroCar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Clase3/src/app/Car/EconomyCar/MicroCar/MicroCar.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Clase3/src/app/Car/FamilyCar/FamilyCar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Clase3/src/app/Car/FamilyCar/FamilyCar.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Clase3/src/app/Car/SportsCar/Convertible/Convertible.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Clase3/src/app/Car/SportsCar/Convertible/Convertible.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Clase3/src/app/Car/SportsCar/MuscleCar/MuscleCar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Clase3/src/app/Car/SportsCar/MuscleCar/MuscleCar.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Clase3/src/app/Car/SportsCar/RaceCar/RaceCar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Clase3/src/app/Car/SportsCar/RaceCar/RaceCar.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Clase3/src/app/Car/SportsCar/SportsCar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Clase3/src/app/Car/SportsCar/SportsCar.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Clase3/src/app/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Clase3/src/app/app.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Clase3/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Clase3/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -53,78 +16,63 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="tsconfig.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Clase3/tsconfig.json">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Clase4/Class4-cli/src/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
-              <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SportsCar.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Clase3/src/app/Car/SportsCar/SportsCar.ts">
+      <file leaf-file-name="app.module.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Clase4/Class4-cli/src/app/app.module.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="70" selection-start-line="14" selection-start-column="70" selection-end-line="14" selection-end-column="70" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MuscleCar.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Clase3/src/app/Car/SportsCar/MuscleCar/MuscleCar.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RaceCar.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Clase3/src/app/Car/SportsCar/RaceCar/RaceCar.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Convertible.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Clase3/src/app/Car/SportsCar/Convertible/Convertible.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.ts" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Clase3/src/app/app.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+            <state relative-caret-position="187">
+              <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
               <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <element signature="e#182#244#0" expanded="true" />
+                <element signature="e#0#58#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Car.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Clase3/src/app/Car/Car.ts">
+      <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Clase4/Class4-cli/src/app/app.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+            <state relative-caret-position="136">
+              <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Clase3/src/index.html">
+      <file leaf-file-name="app.component.spec.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Clase4/Class4-cli/src/app/app.component.spec.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="39" lean-forward="true" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+            <state>
+              <folding>
+                <element signature="e#0#55#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.component.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Clase4/Class4-cli/src/app/app.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Clase4/Class4-cli/src/main.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#47#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -159,6 +107,8 @@
         <option value="$PROJECT_DIR$/Clase3/src/app/Car/SportsCar/MuscleCar/MuscleCar.ts" />
         <option value="$PROJECT_DIR$/Clase3/src/app/Car/SportsCar/SportsCar.ts" />
         <option value="$PROJECT_DIR$/Clase3/src/app/app.ts" />
+        <option value="$PROJECT_DIR$/Clase4/Class4-cli/src/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/Clase4/Class4-cli/src/app/app.component.html" />
       </list>
     </option>
   </component>
@@ -168,12 +118,17 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/Clase4/Class4-cli/node_modules" />
+  </component>
   <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/Clase4/Class4-cli/package.json" />
+    </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="472" />
-    <option name="width" value="1455" />
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -195,33 +150,35 @@
             <path>
               <item name="AlertClass" type="b2602c69:ProjectViewProjectNode" />
               <item name="AlertClass" type="462c0819:PsiDirectoryNode" />
-              <item name="Clase2" type="462c0819:PsiDirectoryNode" />
+              <item name="Clase4" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AlertClass" type="b2602c69:ProjectViewProjectNode" />
               <item name="AlertClass" type="462c0819:PsiDirectoryNode" />
-              <item name="Clase3" type="462c0819:PsiDirectoryNode" />
+              <item name="Clase4" type="462c0819:PsiDirectoryNode" />
+              <item name="Class4-cli" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AlertClass" type="b2602c69:ProjectViewProjectNode" />
               <item name="AlertClass" type="462c0819:PsiDirectoryNode" />
-              <item name="Clase3" type="462c0819:PsiDirectoryNode" />
+              <item name="Clase4" type="462c0819:PsiDirectoryNode" />
+              <item name="Class4-cli" type="462c0819:PsiDirectoryNode" />
+              <item name="e2e" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlertClass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlertClass" type="462c0819:PsiDirectoryNode" />
+              <item name="Clase4" type="462c0819:PsiDirectoryNode" />
+              <item name="Class4-cli" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AlertClass" type="b2602c69:ProjectViewProjectNode" />
               <item name="AlertClass" type="462c0819:PsiDirectoryNode" />
-              <item name="Clase3" type="462c0819:PsiDirectoryNode" />
+              <item name="Clase4" type="462c0819:PsiDirectoryNode" />
+              <item name="Class4-cli" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AlertClass" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlertClass" type="462c0819:PsiDirectoryNode" />
-              <item name="Clase3" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="app.ts" type="620a8d5e:NestingTreeNode" />
             </path>
           </expand>
           <select />
@@ -236,7 +193,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.XML" />
-    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/Clase4/Class4-cli/node_modules/typescript/lib" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -262,19 +219,18 @@
       <updated>1527190246120</updated>
       <workItem from="1527190250903" duration="3339000" />
       <workItem from="1527198213778" duration="6033000" />
-      <workItem from="1527526554254" duration="4327000" />
+      <workItem from="1527526554254" duration="10023000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13699000" />
+    <option name="totallyTimeSpent" value="19395000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TypeScript" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.104166664" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27870563" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -522,7 +478,7 @@
     <entry file="file://$PROJECT_DIR$/Clase3/tsconfig.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -540,10 +496,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Clase3/src/index.html">
+    <entry file="file://$PROJECT_DIR$/Clase3/src/app/Car/SportsCar/SportsCar.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="39" lean-forward="true" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+        <state relative-caret-position="238">
+          <caret line="14" column="70" selection-start-line="14" selection-start-column="70" selection-end-line="14" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Clase3/src/app/app.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#182#244#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -554,21 +521,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Clase3/src/app/Car/SportsCar/SportsCar.ts">
+    <entry file="file://$PROJECT_DIR$/Clase3/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="70" selection-start-line="14" selection-start-column="70" selection-end-line="14" selection-end-column="70" />
+        <state relative-caret-position="306">
+          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Clase3/src/app/app.ts">
+    <entry file="file://$PROJECT_DIR$/Clase4/Class4-cli/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Clase4/Class4-cli/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#182#244#0" expanded="true" />
+            <element signature="e#0#58#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Clase4/Class4-cli/src/main.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Clase4/Class4-cli/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Clase4/Class4-cli/src/app/app.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Clase4/Class4-cli/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
