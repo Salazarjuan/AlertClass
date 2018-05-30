@@ -1,12 +1,74 @@
 <!--The content below is only a placeholder and can be replaced.-->
 <div style="text-align:center">
-  <h1>
-    Welcome to {{ title | uppercase }}! <br>
-    short: {{ 1527539457 | date:'short' }} <br>
-    only time: {{ 1527539457 | date:'shortTime' }} <br>
-    time with seconds: {{ 1527539457 | date:'longTime' }} <br>
-    conversion: {{ '4/15/88' | date:'EEEE, MMMM d, yyyy' }} <br>
-  </h1>
+
+  <body>
+
+    <h1>
+      Value level <br>
+      Welcome to {{ title | uppercase }}! <br>
+      short: {{ 1527539457 | date:'short' }} <br>
+      only time: {{ 1527539457 | date:'shortTime' }} <br>
+      time with seconds: {{ 1527539457 | date:'longTime' }} <br>
+      conversion: {{ '4/15/88' | date:'EEEE, MMMM d, yyyy' }} <br>
+      Sqrt Pipe: {{ 9 | sqrt }} <br>
+    </h1>
+
+    <h1>
+      <div style="text-align: center">
+        Property level <br>
+        <button [disabled]='disableVar'>Click Here Disabled</button> <br>
+        <button [hidden]='hiddenVar'>Click Here </button> <br>
+        <button [className]="myClass1Name">Click Here </button> <br>
+        <button [className]="myClass2Name">Click Here </button> <br>
+      </div>
+    </h1>
+
+    <h1>
+      <div style="text-align: center">
+        Event Level<br>
+        <button (click)='clickme()' [className] = 'myClass1Name'>Click Me</button><br>
+        <input type="checkbox" (change)="handleCheck($event.target.checked)">Checkbox<br>
+        <p>The checkbox is {{checkMsg}}.</p>
+      </div>
+      <div style="text-align: center">
+        <select (change)='handleSelect($event.target.value)'>
+          <option>Red</option>
+          <option>Green</option>
+          <option>Blue</option>
+        </select>
+        <p>Selected value => {{optionMsg}}</p>
+      </div>
+    </h1>
+
+    <h1>
+      <div style="text-align: center">
+        Activity Level<br>
+
+        <div style="text-align: center">
+          Activity one<br>
+
+          <select (change)='activitySelect($event.target.value)'>
+            <option>first</option>
+            <option>second</option>
+            <option>third</option>
+          </select>
+
+          <p [className]='colorSelected'>{{selectionMSG}}</p>
+
+        </div>
+
+        <div style="text-align: center">
+          Activity two<br>
+          <button (click) = "counterSum()"   (mouseover) = "isOver(true)" (mouseout) = "isOver(false)">Number of clicks: {{clickCounter}}  <br>Mouse is over: {{mouseOver}}</button>
+
+        </div>
+      </div>
+    </h1>
+  </body>
+
+
+
+
   <img width="300" alt="Angular Logo" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTAgMjUwIj4KICAgIDxwYXRoIGZpbGw9IiNERDAwMzEiIGQ9Ik0xMjUgMzBMMzEuOSA2My4ybDE0LjIgMTIzLjFMMTI1IDIzMGw3OC45LTQzLjcgMTQuMi0xMjMuMXoiIC8+CiAgICA8cGF0aCBmaWxsPSIjQzMwMDJGIiBkPSJNMTI1IDMwdjIyLjItLjFWMjMwbDc4LjktNDMuNyAxNC4yLTEyMy4xTDEyNSAzMHoiIC8+CiAgICA8cGF0aCAgZmlsbD0iI0ZGRkZGRiIgZD0iTTEyNSA1Mi4xTDY2LjggMTgyLjZoMjEuN2wxMS43LTI5LjJoNDkuNGwxMS43IDI5LjJIMTgzTDEyNSA1Mi4xem0xNyA4My4zaC0zNGwxNy00MC45IDE3IDQwLjl6IiAvPgogIDwvc3ZnPg==">
 </div>
 <h2>Here are some links to help you start: </h2>

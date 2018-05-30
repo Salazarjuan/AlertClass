@@ -1,5 +1,6 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
+import { SqrtPipe} from "../pipes/SqrtPipe";
 
 
 import { AppComponent } from './app.component';
@@ -7,7 +8,8 @@ import { AppComponent } from './app.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    SqrtPipe
   ],
   imports: [
     BrowserModule
