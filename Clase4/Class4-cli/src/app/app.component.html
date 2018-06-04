@@ -1,4 +1,5 @@
 <!--The content below is only a placeholder and can be replaced.-->
+<!--
 <div style="text-align:center">
 
   <body>
@@ -28,7 +29,7 @@
         Event Level<br>
         <button (click)='clickme()' [className] = 'myClass1Name'>Click Me</button><br>
         <input type="checkbox" (change)="handleCheck($event.target.checked)">Checkbox<br>
-        <p>The checkbox is {{checkMsg}}.</p>
+        <p>The checkbox is {{checkMsg}}.</p> <br>
       </div>
       <div style="text-align: center">
         <select (change)='handleSelect($event.target.value)'>
@@ -36,7 +37,7 @@
           <option>Green</option>
           <option>Blue</option>
         </select>
-        <p>Selected value => {{optionMsg}}</p>
+        <p>Selected value => {{optionMsg}}</p><br>
       </div>
     </h1>
 
@@ -64,6 +65,63 @@
         </div>
       </div>
     </h1>
+    <br>
+    <h1>
+      <div style="text-align: center">
+        ng-model Level<br>
+        <h1>Principal Component</h1>
+        <input [(ngModel)] = "myVar" type="text">
+        Hello {{myVar}}
+
+      </div>
+    </h1>
+    <br>
+    <h1>
+      <div style="text-align: center">
+        directives Level<br>
+        <br>
+        <div *ngIf="6===7">
+          <label>This won't be in the document</label>
+        </div>
+
+        <br>
+        <div *ngIf= 'myVar===""'>
+          <label>Invalid!</label>
+        </div>
+
+        <br>
+        <div *ngIf='7 === 6; then trueB else falseB'></div>
+        <ng-template #trueB>
+          <label>This won't be include in the document true</label>
+        </ng-template>
+        <ng-template #falseB>
+          <label>This won't be include in the document false</label>
+        </ng-template>
+
+        <br>
+        <div *ngIf='myVar === ""; then emptyB else notEmptyB'></div>
+        <ng-template #emptyB>
+          <label>This text is empty</label>
+        </ng-template>
+        <ng-template #notEmptyB>
+          <label>This text isn't empty</label>
+        </ng-template>
+
+        <br>
+        <ul>
+          <li *ngFor = 'let item of arrayExample; let i = index'>this is the item {{item}} in index {{i}}</li>
+        </ul>
+
+        <br>
+        <div [ngSwitch] = 'myVar'>
+          <label *ngSwitchCase='3'>Three value</label>
+          <label *ngSwitchCase='5'>Five value</label>
+          <label *ngSwitchCase='7'>Seven value</label>
+          <label *ngSwitchDefault>Other value</label>
+        </div>
+      </div>
+
+    </h1>
   </body>
 
 
@@ -83,4 +141,8 @@
     <h2><a target="_blank" rel="noopener" href="https://blog.angular.io/">Angular blog</a></h2>
   </li>
 </ul>
+-->
+<h1>E3</h1>
+<app-father></app-father>
+
 

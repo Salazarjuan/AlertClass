@@ -23,6 +23,10 @@ export class AppComponent {
   mouseOver: boolean;
   clickCounter: number;
 
+  myVar: string;
+
+  arrayExample = Array(1,2,3,4,5,6,7,8,9,0);
+
   constructor(){
     this.optionMsg = 'red';
     this.checkMsg = 'not checked';
@@ -30,6 +34,7 @@ export class AppComponent {
     this.selectionMSG = 'The first class print text in purple';
     this.clickCounter = 0;
     this.mouseOver = false;
+    this.myVar = '';
   }
 
   clickme(){
